@@ -13,8 +13,12 @@ In Technical Support it is common to focus entirely on the short-term forecastin
 The same code is converted into a flask app to create and User interface to upload a file and forecast future values.
 
 The UI asks for the following Information.
-•	Date Column Name: Has to match exactly as mentioned in the CSV or Excel File 
+
+•	Date Column Name: Has to match exactly as mentioned in the CSV or Excel File
+
 •	Feature/Variable to Forecast: Has to match exactly as mentioned in the CSV or Excel File 
+
 •	Forecasting: The period to forecast for as a unit from available options (Daily, Weekly Monthly, Yearly)
+
 •	Intervals you want to forecast.
 
