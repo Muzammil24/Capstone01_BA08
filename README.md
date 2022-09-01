@@ -8,9 +8,8 @@ The repository contains the following:
 
 01_Deployment_Code.zip uses flask to deploy the code that forecasts future values.
 
-In Technical Support it is common to focus entirely on the short-term forecasting that forms an input to the scheduling process.
 
-The same code is converted into a flask app to create and User interface to upload a file and forecast future values.
+The same code( Time Series code using Fb_prophet (Time_Seriesv4_FB_Parameter_Tuned.ipynb)) is converted into a flask app to create and User interface to upload a file and forecast future values.
 
 The UI asks for the following Information.
 
