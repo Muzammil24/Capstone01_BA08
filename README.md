@@ -22,3 +22,9 @@ The UI asks for the following Information.
 •	Intervals you want to forecast.
 
 Also, contains Database backup(Name:DataBase) used in creating Dashboard and relevant sql scripts(File name: meta.sql)
+
+
+Contains a 2 Video Files one demonstrating Deployment and the second file showing the Dashboard on Metabase.
+
+1. Deploy.webm
+2. Dashboard.mp4
