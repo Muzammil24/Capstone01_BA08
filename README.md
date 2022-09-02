@@ -21,3 +21,4 @@ The UI asks for the following Information.
 
 •	Intervals you want to forecast.
 
+Also, contains Database backup(Name:DataBase) used in creating Dashboard and relevant sql scripts(File name: meta.sql)
